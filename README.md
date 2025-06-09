@@ -77,4 +77,3 @@
     <p>💕No te rindas aqui estare para animarte y apoyarte siempre💕</p>
     <p class="message">🌹🍀TEN POR SEGURO QUE ESTARE A TU LADO PARA APOYARTE EN LAS BUENAS Y EN LAS MALAS🍀🌹 </p>
     <p class="signature">[🌹🍀ANIMO ERES LA MEJOR DEL MUNDO🍀🌹]</p>
-    
